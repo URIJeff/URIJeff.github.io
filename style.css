@@ -1,0 +1,26 @@
+		body {
+			background-color: #191A1A; 
+			color: #f9f9f9; 
+			font-family: sans-serif;
+			font-weight: lighter;}
+		h1 	{
+			margin: 50px 0px 30px 0px;
+			text-align: center;}
+		a 	{
+			color: #f9f9f9;}
+		#content {
+			width: 800px;
+			margin: 30px auto;}
+		#nav-table {
+			width: 800px;
+			margin-top: 5px;}
+		#nav-td {
+			width: 200px;
+			text-align: center;}
+		.text-links {
+			color: #f9f9f9;}
+		.pics {
+			width: 225px;
+			float: left;
+			margin: 0px 15px 15px 0px;
+			clear: both;}
